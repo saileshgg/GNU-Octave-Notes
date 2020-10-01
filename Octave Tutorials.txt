@@ -3,14 +3,7 @@ Octave Tutorials
 Simple arithmetic operations like:-
 
 >>	4+5
-Output:- ans =  12
-
->> 4-9
-ans = -5
-
->>	2^3
-ans = 8
-Note: Operator used for commenting: '%'
+Output:- ans =  12 
 
 >>	1== 2  %false
 ans = 0
@@ -23,6 +16,14 @@ ans = 1
 
 >>	1 && 0		% AND (logical operation)
 ans = 0
+
+>> 4-9
+ans = -5
+
+>>	2^3
+ans = 8
+Note: Operator used for commenting: '%'
+
 
 >>	1 || 0		% OR operation
 ans = 1
